@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Fields: Typography Field\n"
+"POT-Creation-Date: 2020-09-15 11:47-0300\n"
+"PO-Revision-Date: 2020-09-15 11:57-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: acf-typography.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: fields/acf-Typography-v4.php:31 fields/acf-Typography-v5.php:26
+msgid "Typography"
+msgstr "Tipografia"
+
+#: fields/acf-Typography-v4.php:32
+msgid "Content"
+msgstr "Conteúdo"
+
+#: fields/acf-Typography-v4.php:171 fields/acf-Typography-v5.php:145
+msgid "Display Properties"
+msgstr "Propriedades de exibição"
+
+#: fields/acf-Typography-v4.php:172 fields/acf-Typography-v5.php:146
+msgid "Select fields to display on edit page"
+msgstr "Selecione os campos para exibir na página de edição"
+
+#: fields/acf-Typography-v4.php:181 fields/acf-Typography-v4.php:211
+#: fields/acf-Typography-v4.php:231 fields/acf-Typography-v5.php:150
+#: fields/acf-Typography-v5.php:171 fields/acf-Typography-v5.php:187
+msgid "Font Size"
+msgstr "Tamanho"
+
+#: fields/acf-Typography-v4.php:182 fields/acf-Typography-v4.php:212
+#: fields/acf-Typography-v4.php:247
+msgid "Font Family"
+msgstr ""
+
+#: fields/acf-Typography-v4.php:183 fields/acf-Typography-v4.php:213
+#: fields/acf-Typography-v4.php:264 fields/acf-Typography-v5.php:151
+#: fields/acf-Typography-v5.php:172 fields/acf-Typography-v5.php:195
+msgid "Font Weight"
+msgstr "Peso"
+
+#: fields/acf-Typography-v4.php:184 fields/acf-Typography-v4.php:214
+#: fields/acf-Typography-v4.php:281 fields/acf-Typography-v5.php:152
+#: fields/acf-Typography-v5.php:173 fields/acf-Typography-v5.php:204
+msgid "Font Style"
+msgstr "Estilo"
+
+#: fields/acf-Typography-v4.php:185 fields/acf-Typography-v4.php:215
+#: fields/acf-Typography-v4.php:299 fields/acf-Typography-v5.php:153
+#: fields/acf-Typography-v5.php:174 fields/acf-Typography-v5.php:213
+msgid "Font Variant"
+msgstr "Variação"
+
+#: fields/acf-Typography-v4.php:186 fields/acf-Typography-v4.php:216
+#: fields/acf-Typography-v4.php:317 fields/acf-Typography-v5.php:154
+#: fields/acf-Typography-v5.php:175 fields/acf-Typography-v5.php:222
+msgid "Font Stretch"
+msgstr "Expansão/contração"
+
+#: fields/acf-Typography-v4.php:187 fields/acf-Typography-v4.php:217
+#: fields/acf-Typography-v4.php:335 fields/acf-Typography-v5.php:155
+#: fields/acf-Typography-v5.php:176 fields/acf-Typography-v5.php:231
+msgid "Line Height"
+msgstr "Altura da linha"
+
+#: fields/acf-Typography-v4.php:188 fields/acf-Typography-v4.php:218
+#: fields/acf-Typography-v4.php:351 fields/acf-Typography-v5.php:156
+#: fields/acf-Typography-v5.php:177 fields/acf-Typography-v5.php:239
+msgid "Letter Spacing"
+msgstr "Espaçamento das letras"
+
+#: fields/acf-Typography-v4.php:189 fields/acf-Typography-v4.php:219
+#: fields/acf-Typography-v4.php:367 fields/acf-Typography-v5.php:157
+#: fields/acf-Typography-v5.php:178 fields/acf-Typography-v5.php:247
+msgid "Text Align"
+msgstr "Alinhamento"
+
+#: fields/acf-Typography-v4.php:190 fields/acf-Typography-v4.php:220
+#: fields/acf-Typography-v4.php:385 fields/acf-Typography-v5.php:158
+#: fields/acf-Typography-v5.php:179 fields/acf-Typography-v5.php:256
+msgid "Text Color"
+msgstr "Cor"
+
+#: fields/acf-Typography-v4.php:191 fields/acf-Typography-v4.php:221
+#: fields/acf-Typography-v4.php:400 fields/acf-Typography-v5.php:159
+#: fields/acf-Typography-v5.php:180 fields/acf-Typography-v5.php:263
+msgid "Text Decoration"
+msgstr "Decoração"
+
+#: fields/acf-Typography-v4.php:192 fields/acf-Typography-v4.php:222
+#: fields/acf-Typography-v4.php:418 fields/acf-Typography-v5.php:160
+#: fields/acf-Typography-v5.php:181 fields/acf-Typography-v5.php:272
+msgid "Text Transform"
+msgstr "Apresentação"
+
+#: fields/acf-Typography-v4.php:201 fields/acf-Typography-v5.php:166
+msgid "Required Properties"
+msgstr "Propriedades obrigatórias"
+
+#: fields/acf-Typography-v4.php:202 fields/acf-Typography-v5.php:167
+msgid "Select fields which are required on edit page"
+msgstr "Selecione os campos que são obrigatórios na página de edição"
+
+#: fields/acf-Typography-v4.php:232 fields/acf-Typography-v4.php:248
+#: fields/acf-Typography-v4.php:265 fields/acf-Typography-v4.php:282
+#: fields/acf-Typography-v4.php:300 fields/acf-Typography-v4.php:318
+#: fields/acf-Typography-v4.php:336 fields/acf-Typography-v4.php:352
+#: fields/acf-Typography-v4.php:368 fields/acf-Typography-v4.php:386
+#: fields/acf-Typography-v4.php:401 fields/acf-Typography-v4.php:419
+msgid "(Default)"
+msgstr "(Padrão)"
+
+#: fields/acf-Typography-v5.php:63 fields/acf-Typography-v5.php:68
+#: fields/acf-Typography-v5.php:78
+msgid "Normal"
+msgstr "Normal"
+
+#: fields/acf-Typography-v5.php:64
+msgid "Italic"
+msgstr "Itálico"
+
+#: fields/acf-Typography-v5.php:65
+msgid "Oblique"
+msgstr "Inclinado"
+
+#: fields/acf-Typography-v5.php:69
+msgid "Small-caps"
+msgstr "Caixa alta"
+
+#: fields/acf-Typography-v5.php:70 fields/acf-Typography-v5.php:83
+#: fields/acf-Typography-v5.php:92 fields/acf-Typography-v5.php:99
+#: fields/acf-Typography-v5.php:107
+msgid "Initial"
+msgstr "Inicial"
+
+#: fields/acf-Typography-v5.php:71 fields/acf-Typography-v5.php:84
+#: fields/acf-Typography-v5.php:87 fields/acf-Typography-v5.php:100
+#: fields/acf-Typography-v5.php:108
+msgid "Inherit"
+msgstr "Herdar"
+
+#: fields/acf-Typography-v5.php:74
+msgid "Ultra-condensed"
+msgstr "Ultra condensado"
+
+#: fields/acf-Typography-v5.php:75
+msgid "Extra-condensed"
+msgstr "Extra condensado"
+
+#: fields/acf-Typography-v5.php:76
+msgid "Condensed"
+msgstr "Condensado"
+
+#: fields/acf-Typography-v5.php:77
+msgid "Semi-condensed"
+msgstr "Semi condensado"
+
+#: fields/acf-Typography-v5.php:79
+msgid "Semi-expanded"
+msgstr "Semi expandido"
+
+#: fields/acf-Typography-v5.php:80
+msgid "Expanded"
+msgstr "Expandido"
+
+#: fields/acf-Typography-v5.php:81
+msgid "Extra-expanded"
+msgstr "Extra expandido"
+
+#: fields/acf-Typography-v5.php:82
+msgid "Ultra-expanded"
+msgstr "Ultra expandido"
+
+#: fields/acf-Typography-v5.php:88
+msgid "Left"
+msgstr "Esquerda"
+
+#: fields/acf-Typography-v5.php:89
+msgid "Right"
+msgstr "Direita"
+
+#: fields/acf-Typography-v5.php:90
+msgid "Center"
+msgstr "Centralizado"
+
+#: fields/acf-Typography-v5.php:91
+msgid "Justify"
+msgstr "Justificado"
+
+#: fields/acf-Typography-v5.php:95 fields/acf-Typography-v5.php:103
+msgid "None"
+msgstr "Nenhum"
+
+#: fields/acf-Typography-v5.php:96
+msgid "Underline"
+msgstr "Sublinhado abaixo"
+
+#: fields/acf-Typography-v5.php:97
+msgid "Overline"
+msgstr "Sublinhado acima"
+
+#: fields/acf-Typography-v5.php:98
+msgid "Line-through"
+msgstr "Riscado"
+
+#: fields/acf-Typography-v5.php:104
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: fields/acf-Typography-v5.php:105
+msgid "Uppercase"
+msgstr "Caixa alta"
+
+#: fields/acf-Typography-v5.php:106
+msgid "Lowercase"
+msgstr "Caixa baixa"
+
+#: fields/acf-Typography-v5.php:116
+msgid "Error! Please enter a higher value"
+msgstr "Erro! Insira um valor maior"
+
+#: fields/acf-Typography-v5.php:188 fields/acf-Typography-v5.php:196
+#: fields/acf-Typography-v5.php:205 fields/acf-Typography-v5.php:214
+#: fields/acf-Typography-v5.php:223 fields/acf-Typography-v5.php:232
+#: fields/acf-Typography-v5.php:240 fields/acf-Typography-v5.php:248
+#: fields/acf-Typography-v5.php:257 fields/acf-Typography-v5.php:264
+#: fields/acf-Typography-v5.php:273
+msgid "Default"
+msgstr "Padrão"
+
+#: includes/admin_settings.php:32
+msgid "Google Fonts Key"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Advanced Custom Fields: Typography Field"
+msgstr "Advanced Custom Fields: Campo de tipografia"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/acf-typography-field"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Typography Add-on for the Advanced Custom Fields Plugin."
+msgstr "Um Addon de tipografia para o plugin Advanced Custom Fields."
+
+#. Author of the plugin/theme
+msgid "Mujahid Ishtiaq"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/mujahidi"
+msgstr ""

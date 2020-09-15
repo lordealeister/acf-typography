@@ -1,0 +1,16 @@
+.acf-field-typography {
+    min-width: 16%;
+    padding: 0 12px;
+    width: auto;
+}
+
+.acf-color_picker .wp-picker-container,
+.acf-color_picker .wp-picker-container > .button {
+    width: 100%;
+}
+
+.acf-field-Typography > .acf-input {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

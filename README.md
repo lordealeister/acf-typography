@@ -7,17 +7,10 @@ A Typography Add-on for the Advanced Custom Fields Plugin.
   - Stable: [3.0.0](releases/tag/3.0.0)
   - Latest: [3.0.0](releases/tag/3.0.0)
 
-## Version 3.0.0 introduces
-
-* Support for Google Fonts
-* The selected Google Fonts CSS is automatically enqueued on front-end of posts/pages
-* Plugin functions and shortcode to fetch properties
-
 ## Description
 Typography field type for "Advanced Custom Fields" plugin that lets you add different text properties e.g. Font Size, Font Family, Font Color etc.
 ### Supported Subfields
 * Font Size
-* Font Family
 * Font Weight
 * Font Style
 * Font Variant
@@ -30,8 +23,6 @@ Typography field type for "Advanced Custom Fields" plugin that lets you add diff
 * Text Transform
 
 ### Other Features
-* Support for Google Fonts
-* The selected Google Fonts CSS is automatically enqueued on front-end of posts/pages
 * Option to show/hide each subfield individually
 * Option to make each subfield required individually
 * Color Picker for Text Color subfield
@@ -39,7 +30,6 @@ Typography field type for "Advanced Custom Fields" plugin that lets you add diff
 ## Screenshots
 ![Typography Field Screenshot](https://raw.githubusercontent.com/mujahidi/typography/master/screenshot-1.png "Typography Sample Field Settings")
 ![Typography Field Screenshot](https://raw.githubusercontent.com/mujahidi/typography/master/screenshot-2.png "Typography Sample Field Content Editing")
-![Typography Field Screenshot](https://raw.githubusercontent.com/mujahidi/typography/master/screenshot-3.png "Google Key Field required for Google Fonts")
 
 ## Documentation
 ```php
@@ -65,11 +55,7 @@ This ACF field type is compatible with:
 
 ## Installation
 
-- Download the plugin from [WordPress Repository](https://wordpress.org/plugins/acf-typography-field/) or use the [Latest Release](releases)
-- Google API Key is required for Google Fonts. Please add one by going to `WordPress Admin Dashboard > Settings > ACF Typography Settings`
-
-## Limitations
-- Google Fonts CSS gets enqueued only on the front-end of posts and pages.
+- Use the [Latest Release](releases)
 
 ## Changelog
 See changelog on [CHANGELOG.md](CHANGELOG.md) file.
