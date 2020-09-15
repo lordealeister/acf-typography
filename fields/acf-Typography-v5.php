@@ -317,8 +317,9 @@ if(!class_exists('ACFFieldTypography')):
 						<div class="acf-label">
 							<label for="acf-field-<?= $f ?>">
 								<?= __(ucwords(str_replace('_', ' ', $f)), 'acf-typography') ?>
-								<?php if($required != NULL) ?>
+								<?php if(!empty($required)): ?>
 									<span class="acf-required">*</span>
+								<?php endif; ?>
 							</label>
 						</div>
 						<div class="acf-input">
@@ -335,8 +336,9 @@ if(!class_exists('ACFFieldTypography')):
 						<div class="acf-label">
 							<label for="acf-field-<?= $f ?>">
 								<?= __(ucwords(str_replace('_', ' ', $f)), 'acf-typography') ?>
-								<?php if($required != NULL) ?>
+								<?php if(!empty($required)): ?>
 									<span class="acf-required">*</span>
+								<?php endif; ?>
 							</label>
 						</div>
 						<div class="acf-input">
@@ -363,8 +365,9 @@ if(!class_exists('ACFFieldTypography')):
 						<div class="acf-label">
 							<label for="acf-field-<?= $f ?>">
 								<?= __(ucwords(str_replace('_', ' ', $f)), 'acf-typography') ?>
-								<?php if($required != NULL) ?>
+								<?php if(!empty($required)): ?>
 									<span class="acf-required">*</span>
+								<?php endif; ?>
 							</label>
 						</div>
 						<div class="acf-input">
