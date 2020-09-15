@@ -27,10 +27,6 @@ Typography field type for "Advanced Custom Fields" plugin that lets you add diff
 * Option to make each subfield required individually
 * Color Picker for Text Color subfield
 
-## Screenshots
-![Typography Field Screenshot](https://raw.githubusercontent.com/mujahidi/typography/master/screenshot-1.png "Typography Sample Field Settings")
-![Typography Field Screenshot](https://raw.githubusercontent.com/mujahidi/typography/master/screenshot-2.png "Typography Sample Field Content Editing")
-
 ## Documentation
 ```php
 // Returns the value of a specific property

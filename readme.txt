@@ -66,12 +66,6 @@ This ACF field type is compatible with:
 4. Create a new field via ACF and select the Typography type
 5. Please refer to the description for more info regarding the field type settings
 
-== Screenshots ==
-
-1. Typography Field Settings
-
-2. Typography Field Content Editing
-
 == Changelog ==
 = 3.0.0 =
 * [NEW] Introduces functions and shortcode
