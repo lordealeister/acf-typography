@@ -80,7 +80,7 @@ if(!class_exists('ACFFieldTypography')):
 				'ultra-expanded'    => __('Ultra-expanded', 'acf-typography'),
 			);
 			$this->text_align = array(
-				'inital'	=> __('Initial', 'acf-typography'),
+				'initial'	=> __('Initial', 'acf-typography'),
 				'inherit'	=> __('Inherit', 'acf-typography'),
 				'left'		=> __('Left', 'acf-typography'),
 				'right'		=> __('Right', 'acf-typography'), 
@@ -346,11 +346,11 @@ if(!class_exists('ACFFieldTypography')):
 								<?php 
 									$options = '';
 
-									foreach($this->$f as $opt):
+									foreach($this->$f as $key => $opt):
 										if(!empty($field['value'][$f]))
-											$options .= '<option val="' . $opt . '" ' . ($field['value'][$f] == $opt? 'selected': '') . '>' . $opt . '</option>';
+											$options .= '<option value="' . $key . '" ' . ($field['value'][$f] == $opt? 'selected': '') . '>' . $opt . '</option>';
 										else
-											$options .= '<option val="' . $opt . '" ' . ($field[$f] == $opt? 'selected': '') . '>' . $opt . '</option>';
+											$options .= '<option value="' . $key . '" ' . ($field[$f] == $opt? 'selected': '') . '>' . $opt . '</option>';
 									endforeach;
 
 									echo $options;
